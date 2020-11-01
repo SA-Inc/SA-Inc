@@ -1,16 +1,33 @@
-### Hi there 👋
+# IT Specialist, Network Engineer & Programmer
 
-<!--
-**SA-Inc/SA-Inc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Codewars](https://www.codewars.com/users/SA-Inc/badges/large)
 
-Here are some ideas to get you started:
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SA-Inc&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Personal Profile
+I am a young, flexible and communicable IT Specialist, Network Engineer and Programmer. I always try to solve a problem qualitatively and without shirking. I have some experience work in a team, and I want to work with a team of professionals and develop useful and quality software products. Also, I like step by step self-learning new technologies and apply them in practice. I want to achieve new heights, improve my professional and personal skills and get a new experience.
+
+## Interested in
+- Math
+- Hiking
+- Accounting & Bookkeeping
+- Linguistics
+
+## Skills
+- _Programming Languages_: JavaScript(Node.js), C, SQL, Bash, Python, Assembler(as Hobby)
+- _Network_: Switches & Routers(Cisco, MikroTik)
+- _Computer Architecture_ 
+- _Operating Systems_
+- _Information Security & Cryptography_
+- _Databases_: SQL(MySQL, Oracle, SQLite) & NoSQL(MongoDB, Elasticsearch)
+- _Systems Analysis_
+
+## Education
+- _2015 - 2019_ - Telematics(Computer Science) BA Kazakh-German University
+- _2019 - Present_ - Logistics MA Kazakh-German University
+
+## Languages
+- Russian - Native
+- English - Upper Intermediate
+- German - Upper Intermediate
+- Kazakh - Intermediate
