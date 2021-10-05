@@ -6,11 +6,10 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SA-Inc&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Personal Profile
-I am a young, flexible and communicable IT Specialist, Network Engineer and Programmer. I always try to solve a problem qualitatively and without shirking. I have some experience work in a team, and I want to work with a team of professionals and develop useful and quality software products. Also, I like step by step self-learning new technologies and apply them in practice. I want to achieve new heights, improve my professional and personal skills and get a new experience.
+I am a young, flexible and communicable IT Specialist, Network Engineer and Programmer. I always try to solve a problem qualitatively and without shirking. But before this I like decompose the system, make schemes, tables, flow charts. In one word, carry out a System Analysis of the Domain knowledge. I have some experience work in a team, and I want to work with a team of professionals and develop useful and quality IT products. Also, I like step by step self-learning new technologies and apply them in practice, but don't forget about fundamental things (like OSI, TCP/IP or Relational model). I want to achieve new heights, improve my professional and personal soft and hard skills, meet new peoples and get a new experience.
 
 ## Interested in
-- Information Security
-- Linux
+- Linux, Information Security
 - Math
 - Hiking
 - Accounting & Bookkeeping
@@ -18,7 +17,7 @@ I am a young, flexible and communicable IT Specialist, Network Engineer and Prog
 
 ## Skills
 - **Programming Languages**: C++, Python, Node.js, SQL, Bash, Assembler (as Hobby)
-- **Databases**: SQL (MySQL, Oracle, SQLite) & NoSQL(MongoDB, Elasticsearch)
+- **Databases**: SQL (MySQL, Oracle, SQLite) & NoSQL (MongoDB, Elasticsearch)
 - **Network**: Switches & Routers (MikroTik, Cisco)
 - **Information Security and Cryptography**
 - **Computer Architecture and Operating Systems (main OS - Linux Distros)**
