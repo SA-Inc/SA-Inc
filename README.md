@@ -30,7 +30,13 @@
 - _2019 - 2021_ - Resource Efficient Production Logistics MA Kazakh-German University
 
 ## Job experience
-### _04.2021 - Present_
+### _11.2021 - Present_
+Engineer-Programmer at X-Holding Kazakhstan / Nexign
+- Maintaining Telecommunacation and Billing System
+- Working with SQL Databases and Linux Servers
+- Develop automation Scripts
+
+### _04.2021 - 10.2021_
 Project Assistant and Software Developer at Kazakh-German University
 - Took part in the German project "Cargo Bike"
 - Developed Web Site and Web App
