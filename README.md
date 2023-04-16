@@ -1,5 +1,8 @@
 # IT Specialist, Network Engineer & Programmer
 
+## [Me at Competitive coding platform Leetcode:](https://leetcode.com/SA-Inc/)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=SA-Inc&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
 ## [Me at Competitive coding platform Codewars:](https://www.codewars.com/users/SA-Inc)
 ![Codewars](https://www.codewars.com/users/SA-Inc/badges/large)
 
