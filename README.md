@@ -1,4 +1,4 @@
-# IT Specialist, Network Engineer & Programmer
+# IT Specialist, Programmer and Neural Network researcher
 
 ## Me at Competitive coding platform
 ### [Leetcode:](https://leetcode.com/SA-Inc/)
