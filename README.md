@@ -36,8 +36,10 @@
 ### _11.2021 - Present_
 Engineer-Programmer at Digital Holding Qazaqstan
 - Сompleted training at Nexign in maintaining telecommunacation and billing system.
-- Working with SQL databases and Linux servers at Ucell. Troubleshoot problems in their system.
+- Working with SQL databases, Linux servers and Data Brocker (RabbitMQ) at Ucell (Telecommunacation). Troubleshoot problems in their system.
+- Data analytics and make reports.
 - Develop automation programms and scripts (Python, Bash).
+- SAP integration and maintenance.
 
 ### _04.2021 - 10.2021_
 Project Assistant and Software Developer at Kazakh-German University
